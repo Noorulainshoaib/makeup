@@ -392,7 +392,7 @@ const ProductSinglePage = () => {
                   count={5}
                   onChange={ratingChanged}
                   size={24}
-                  color2={'#ffd700'}
+                  color2={'#E11584'}
                 />
                   <div className='btns mt-4'>
                     <button
